@@ -4,6 +4,14 @@
   align-items: center;
 }
 
+nav ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+nav ul li {
+  list-style: none;
+}
+
 .centered-heading {
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
