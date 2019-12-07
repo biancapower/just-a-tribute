@@ -4,4 +4,9 @@
   align-items: center;
 }
 
+.centered-heading {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 /*# sourceMappingURL=main.css.map */
