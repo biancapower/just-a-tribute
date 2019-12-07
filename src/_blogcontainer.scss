@@ -1,5 +1,9 @@
 #blog-container {
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    a {
+        margin: 20px;
+    }
 }
